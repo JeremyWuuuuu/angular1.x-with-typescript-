@@ -5,9 +5,9 @@ Usage:
 
 ``` javascript
 
-  git clone https://github.com/JeremyWuuuuu/angular1.x-with-typescript-.git
+  git clone https://github.com/JeremyWuuuuu/angular1.xWithTypescript.git
   
-  cd angular1.x-with-typescript- && npm install
+  cd 'angular1.xWithTypeScript' && npm install
   
   npm run dev
   
