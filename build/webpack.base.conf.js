@@ -11,11 +11,6 @@ module.exports = {
     resolve: {
         extensions: ['.ts', '.js', '.css']
     },
-    output: {
-        path: '/build/',
-        publicPath: '/build/',
-        filename: '[name].js'
-    },
     devtool: '#cheap-module-eval-source-map',
     module: {
         loaders: [
